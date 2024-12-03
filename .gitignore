@@ -1,0 +1,45 @@
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration files
+local.properties
+.idea/
+*.iml
+*.hprof
+
+# Android Studio specific files
+/.idea
+/.gradle
+/captures/
+/local.properties
+/.DS_Store
+
+# IntelliJ specific files
+*.iws
+*.iml
+*.ipr
+
+# Log files
+*.log
+
+# Android specific files
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Firebase Crashlytics generated files
+crashlytics-build.properties
+
+# Gradle Wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# .env files or any other environment files
+.env
+
+# JetBrains project files
+.idea/
+*.iml
